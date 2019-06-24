@@ -1,0 +1,4 @@
+pandas
+tensorflow
+keras
+Flask==0.12.0
